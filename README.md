@@ -14,7 +14,8 @@ Hello! 👋 I'm a passionate developer with a love for music 🎵 and technology
 
 ## Projects
 
-- **Alvera Ecommerce:** Is an e-commerce platform developed with Django. It offers a modern and efficient online shopping experience. 
+- **Alvera Ecommerce:** Is an e-commerce platform developed with Django. It offers a modern and efficient online shopping experience.
+- **IA Chatbot:** This chatbot works based on a Corpus with all the information from my Professional School and University.
 - **3-en-Raya:** This project includes a basic version and another one where you can ask questions and play your turn by answering them.
 
 ## Contact
